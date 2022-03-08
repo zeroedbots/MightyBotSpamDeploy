@@ -13,3 +13,13 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BeingMighty/MightyBotSpam-deploy-)
 
 <br>
+
+<details>
+ 
+  <summary> • 𝗖𝗿𝗲𝗱𝗶𝘁𝘀 • </summary>
+  
+* [RiZoeL Creator](https://github.com/MrRizoel) For Base.
+* [MightyX Creator](https://github.com/BeingMighty)
+* [Lonami](https://github.com/LonamiWebs/) For [Telethon.](https://github.com/LonamiWebs/Telethon)
+
+</details>
