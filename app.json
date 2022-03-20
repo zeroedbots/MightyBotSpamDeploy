@@ -1,5 +1,5 @@
 {
-    "name": "MIGHTY X BOTSPAM HERE.",
+    "name": "MIGHTY X BOTSPAM IS HERE.",
     "description": "MOST POWERFUL & STABLE SPAM USERBOTS",
     "logo": "https://telegra.ph/file/f6ea9ab7683ec1d5f8f57.jpg",
     "keywords": [
@@ -20,6 +20,11 @@
       },
       "ALIVE_PIC": {
         "description": "Put Alive Pic's Telegraph Link | Get This Value From @vTelegraphBot",
+        "value": "",
+        "required": false
+      },
+      "ALIVE_TEXT": {
+        "description": "Header Text To Show On Executing Alive Command.",
         "value": "",
         "required": false
       },
@@ -84,12 +89,12 @@
         "required": true
       },
        "SUDO_USER": {
-            "description": "Sudo users id - Saparated By Space",
+            "description": "Sudo Users id - Saparated By Space",
             "value": "",
             "required": false
         },
       "OWNER_ID": {
-            "description": "Owner Id",
+            "description": "Owner ID",
             "value": "",
             "required": true
         },
