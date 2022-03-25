@@ -18,13 +18,18 @@
         "value": "",
         "required": true
       },
+      "ALIVE_NAME": {
+        "description": "Fill Your Name (Owner Name)",
+        "value": "",
+        "required": false
+      },
       "ALIVE_PIC": {
-        "description": "Put Alive Pic's Telegraph Link | Get This Value From @vTelegraphBot",
+        "description": "Put Alive Pic's Telegraph Link. (Optional) | Get This Value From @vTelegraphBot",
         "value": "",
         "required": false
       },
       "ALIVE_TEXT": {
-        "description": "Header Text To Show On Executing Alive Command.",
+        "description": "Header Text To Show On Executing Alive Command. (Optional)",
         "value": "",
         "required": false
       },
